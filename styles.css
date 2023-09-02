@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
- .main-class{
+ .container{
         display: flex;
         justify-content: center;
        align-items: center;
