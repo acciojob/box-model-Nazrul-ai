@@ -19,6 +19,7 @@
         /* display: inline; */
         border-radius: 50%;
         background-color: green;
+		   padding: 5px;
         /* margin: 60px; */
        
       }
@@ -26,6 +27,7 @@
         /* display: inline; */
         height: 60px;
         width: 60px;
+		   padding: 5px;
         margin: 15px;
         border-radius: 50%;
         background-color: yellow;
@@ -36,6 +38,7 @@
 
         height: 60px;
         width: 60px;
+		   padding: 5px;
         border-radius: 50%;
         background-color: red;
         /* margin: 60px; */
