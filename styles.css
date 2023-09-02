@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-   .main-class{
+ .main-class{
         display: flex;
         justify-content: center;
        align-items: center;
@@ -12,7 +12,7 @@
         padding: 20px;
 
       }
-      .box-1{
+      .green{
         height: 60px;
         width: 60px;
         margin: 15px;
@@ -22,7 +22,7 @@
         /* margin: 60px; */
        
       }
-      .box-2{
+      .yellow{
         /* display: inline; */
         height: 60px;
         width: 60px;
@@ -32,7 +32,7 @@
         /* text-align: center; */
         /* margin: 60px; */
       }
-      .box-3{
+      .red{
 
         height: 60px;
         width: 60px;
